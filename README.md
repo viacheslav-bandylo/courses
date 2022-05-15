@@ -1,1 +1,1 @@
-# Difficult and interesting assignments from courses 
+# Assignments from courses 
